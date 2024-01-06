@@ -1,4 +1,4 @@
-# curso de Mariadb
+# Curso de Mariadb
 
 El curso se estará publicando en le siguiente [Sitio web](https://codefuncode.github.io/curso-de-mariadb/)
 
